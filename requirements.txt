@@ -16,3 +16,4 @@ spacy
 torch
 networkx
 diffprivlib
+keras_vggface
