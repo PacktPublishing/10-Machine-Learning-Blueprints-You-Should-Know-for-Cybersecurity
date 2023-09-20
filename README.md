@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # 10 Machine Learning Blueprints You Should Know for Cybersecurity
 
 <a href="https://www.amazon.com/Machine-Learning-Blueprints-should-Cybersecurity/dp/1804619477?utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="https://m.media-amazon.com/images/I/71wywzT4VtL.jpg" alt="10 Machine Learning Blueprints You Should Know for Cybersecurity" height="256px" align="right"></a>
