@@ -54,6 +54,10 @@ With the following software and hardware list you can run all code files present
 | 2-11 | Scikit-learn | Windows, Mac OS X, and Linux  |
 | 2-11 | Miscellaneous – other libraries | Windows, Mac OS X, and Linux  |
 
+## Errata
+* Page 26: _It should be_ **95%** _in the line:_  
+  The CLT says that most data (99%) falls within two standard deviations (on either side) of the mean.
+
 ### Related products
 * Machine Learning Security Principles [[Packt]](https://www.packtpub.com/product/machine-learning-security-principles/9781804618851#_ga=2.202147089.1204455024.1685979988-448240227.1685979988?utm_source=github&utm_medium=repository&utm_campaign=9781804618851) [[Amazon]](https://www.amazon.com/dp/1804618853)
 
